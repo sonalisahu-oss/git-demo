@@ -1,1 +1,2 @@
 checking for commit
+texts to be committed
